@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Airline Home Page</title>
+<link rel="stylesheet" href="PracticalStyle.css">
+</head>
+<body>
+<h1>Oceanic Airlines</h1>
+<div class = container>
+<div class="btn-group">
+ <input type="button" class="button" value="Home">
+  <input type="button" class="button" value="Upcoming Flight">
+  <input type="button" class="button" value="About Us">
+  
+  <input type="button" class="button" value="Tavel Goal">
+  <input type="button" class="button" value="Contact Us">
+</div>
+<br>
+<div class = "Matter">
+<img src="file:///C:/Users/Devinder%20Singh/Desktop/kulpreet/HTML/images/images.jpg">
+<h2>Welcome !</h2>
+<p>
+Flight is the process by which an object moves through an atmosphere (or beyond it, as in the case of spaceflight) without contact with the surface. This can be achieved by generating aerodynamic lift associated with propulsive thrust, aerostatically using buoyancy, or by ballistic movement.
+<br>
+Many things can fly, from natural aviators such as birds, bats, and insects, to human inventions like aircraft, including airplanes, helicopters, balloons, and rockets which may carry spacecraft.
+</p>
+
+<div class="centered">
+    
+    <h2>For Standard Travellers </h2>
+  <ul>
+    <li type = "square">Standard Seating Chart</li>
+    <li type = "square">Find out why our flights are so unique</li>
+    <li type = "square">Read our insurance policy</li>
+	<li type = "square">Join our frequent flyer club</li>
+	<li type = "square">More Travel Resources</li>
+  </ul>
+  
+</div>
+
+
+ <div class="centered">
+  <h2>For "Others"</h2>
+     <ul>
+    <li type = "square">Effect of electromagnetism on Travellers</li>
+    <li type = "square">Flying with animals</li>
+    <li type = "square">Non Smoking Policy</li>
+	<li type = "square">More Travel Resources</li>
+	</ul>
+	
+
+</div>
+</div>
+</div>
+
+<div class = "footer">
+	Copyright © 2012OceanicAirlines <br>
+  	Phone Number :-123456789 Oceanicairlines.com
+
+
+</div>
+
+</body>
+</html>
