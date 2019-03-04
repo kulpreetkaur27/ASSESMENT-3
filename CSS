@@ -1,0 +1,84 @@
+@charset "ISO-8859-1";
+body
+{
+	background-color :Aqua;
+}
+h1
+{
+	color:white;
+	text-align:center;
+	paddings:5px;
+}
+h2
+{
+	color : DodgerBlue;
+}
+.container
+{	
+	left : 20%;
+	border:2px solid black;
+ 	border-radius: 25px;
+ 	position: relative;
+ 	height: 30%;
+ 	width: 60%;
+ 	background-color: DeepSkyBlue;
+   	
+}
+
+.Matter
+{
+	left: 5%;
+	border:2px solid black;
+ 	border-radius: 25px;
+ 	position: relative;
+ 	height: 25%;
+ 	width: 90%;
+ 	background-color: white;
+   
+}
+.img
+{
+        position: absolute;
+        width: 50px; /*the image width*/
+        height: 50px; /*the image height*/
+        left: 50%;
+        top: 50%;
+        margin-left: -25px; /*half the image width*/
+        margin-top: -25px; /*half the image height*/
+        background-position : center;
+    }
+
+}
+.btn-group
+{	
+	background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.centered
+{
+	float : left ;
+	
+}
+
+.footer
+{
+	
+	color: black;
+	clear: both;
+	text-align: center;
+	padding: 5px;	
+	height : 40px;
+}
+
+
+
+
+
